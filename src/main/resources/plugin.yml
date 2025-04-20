@@ -1,0 +1,8 @@
+name: EggHuntEvent
+version: '1.0-SNAPSHOT'
+main: com.egghunt.EggHuntPlugin
+api-version: '1.21'
+commands:
+  startegg:
+    description: Запустить ивент охоты на яйца
+    usage: /startegg
